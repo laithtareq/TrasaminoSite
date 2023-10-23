@@ -1,0 +1,41 @@
+body{
+    
+    padding-left: 20px;
+}
+h1 {
+    background-color: navy;
+    color: antiquewhite;
+    
+}
+ul{
+    background-color: chartreuse;
+    width: 20%;
+}
+.wellcome:hover {
+    color: antiquewhite;
+    font-size: 50px;
+    
+}
+.mainlist {
+    background-image: linear-gradient(45deg, yellow , red);
+    
+    border: 1px solid black;
+    
+    
+}
+.mainlist:hover {
+    background-image: linear-gradient(45deg, yellow , yellow);
+    width: 20%;
+    border: 1px solid black;
+    
+}
+table {
+    border-collapse: collapse;
+}
+td {
+    width: 100px;
+    margin: 20px;
+    text-align: left;
+    border: 1px dashed black;
+    
+}
