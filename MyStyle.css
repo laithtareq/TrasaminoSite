@@ -1,5 +1,5 @@
 body{
-    
+    background-color: black;
     padding-left: 20px;
 }
 h1 {
@@ -37,5 +37,12 @@ td {
     margin: 20px;
     text-align: left;
     border: 1px dashed black;
+    
+}
+.profile{
+    width: 250px;
+    height: 250px;
+    background-size: 100%  100%;
+    opacity: 50%;
     
 }
